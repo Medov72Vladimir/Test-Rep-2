@@ -2,3 +2,4 @@
 HELLO GIT!
 Hello local
 Line Conflict
+Local Conflict
